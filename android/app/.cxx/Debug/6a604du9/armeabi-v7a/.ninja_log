@@ -1,0 +1,5 @@
+# ninja log v5
+1	5	0	/media/ando/75183A5C7FFA7E2F/dos/doc/IS INFO/React/REACT NATIVE/exercice1/METApp/android/app/.cxx/Debug/6a604du9/armeabi-v7a/CMakeFiles/cmake.verify_globs	ebc49ea6df763cfe
+0	2870	1747642941096444900	CMakeFiles/appmodules.dir/media/ando/75183A5C7FFA7E2F/dos/doc/IS_INFO/React/REACT_NATIVE/exercice1/METApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	6907b145bb53a049
+0	3205	1747642941423615000	CMakeFiles/appmodules.dir/OnLoad.cpp.o	28f6edf105dba9d5
+3205	3363	1747642941604641500	/media/ando/75183A5C7FFA7E2F/dos/doc/IS INFO/React/REACT NATIVE/exercice1/METApp/android/app/build/intermediates/cxx/Debug/6a604du9/obj/armeabi-v7a/libappmodules.so	aff1a06bce0e2d24

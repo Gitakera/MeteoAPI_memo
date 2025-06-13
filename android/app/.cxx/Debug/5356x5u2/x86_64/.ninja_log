@@ -1,0 +1,26 @@
+# ninja log v5
+1	6	0	/home/ando/Documents/doc/IS INFO/React/REACT NATIVE/exercice/METApp/android/app/.cxx/Debug/5356x5u2/x86_64/CMakeFiles/cmake.verify_globs	caf0782d843d024c
+0	3167	1743793302663068063	CMakeFiles/appmodules.dir/home/ando/Documents/doc/IS_INFO/React/REACT_NATIVE/exercice/METApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	39cbcfa00f0cb493
+1	3432	1743793302922072162	CMakeFiles/appmodules.dir/OnLoad.cpp.o	62bb107b95062617
+3432	3489	1743793302999073380	/home/ando/Documents/doc/IS INFO/React/REACT NATIVE/exercice/METApp/android/app/build/intermediates/cxx/Debug/5356x5u2/obj/x86_64/libappmodules.so	b3730421bf8c0db5
+1	7	0	/home/ando/Documents/doc/IS INFO/React/REACT NATIVE/exercice/METApp/android/app/.cxx/Debug/5356x5u2/x86_64/CMakeFiles/cmake.verify_globs	caf0782d843d024c
+1	10	0	/home/ando/Documents/doc/IS INFO/React/REACT NATIVE/exercice/METApp/android/app/.cxx/Debug/5356x5u2/x86_64/CMakeFiles/cmake.verify_globs	caf0782d843d024c
+5	13	0	/home/ando/Documents/doc/IS INFO/React/REACT NATIVE/exercice/METApp/android/app/.cxx/Debug/5356x5u2/x86_64/CMakeFiles/cmake.verify_globs	caf0782d843d024c
+1	6	0	/home/ando/Documents/doc/IS INFO/React/REACT NATIVE/exercice/METApp/android/app/.cxx/Debug/5356x5u2/x86_64/CMakeFiles/cmake.verify_globs	caf0782d843d024c
+0	6	0	/home/ando/Documents/doc/IS INFO/React/REACT NATIVE/exercice/METApp/android/app/.cxx/Debug/5356x5u2/x86_64/CMakeFiles/cmake.verify_globs	caf0782d843d024c
+1	13	0	/home/ando/Documents/doc/IS INFO/React/REACT NATIVE/exercice/METApp/android/app/.cxx/Debug/5356x5u2/x86_64/CMakeFiles/cmake.verify_globs	caf0782d843d024c
+3	11	0	/home/ando/Documents/doc/IS INFO/React/REACT NATIVE/exercice/METApp/android/app/.cxx/Debug/5356x5u2/x86_64/CMakeFiles/cmake.verify_globs	caf0782d843d024c
+1	7	0	/home/ando/Documents/doc/IS INFO/React/REACT NATIVE/exercice/METApp/android/app/.cxx/Debug/5356x5u2/x86_64/CMakeFiles/cmake.verify_globs	caf0782d843d024c
+1	22	0	/home/ando/Documents/doc/IS INFO/React/REACT NATIVE/exercice/METApp/android/app/.cxx/Debug/5356x5u2/x86_64/CMakeFiles/cmake.verify_globs	caf0782d843d024c
+1	6	0	/home/ando/Documents/doc/IS INFO/React/REACT NATIVE/exercice/METApp/android/app/.cxx/Debug/5356x5u2/x86_64/CMakeFiles/cmake.verify_globs	caf0782d843d024c
+1	10	0	/home/ando/Documents/doc/IS INFO/React/REACT NATIVE/exercice/METApp/android/app/.cxx/Debug/5356x5u2/x86_64/CMakeFiles/cmake.verify_globs	caf0782d843d024c
+1	8	0	/home/ando/Documents/doc/IS INFO/React/REACT NATIVE/exercice/METApp/android/app/.cxx/Debug/5356x5u2/x86_64/CMakeFiles/cmake.verify_globs	caf0782d843d024c
+1	6	0	/home/ando/Documents/doc/IS INFO/React/REACT NATIVE/exercice/METApp/android/app/.cxx/Debug/5356x5u2/x86_64/CMakeFiles/cmake.verify_globs	caf0782d843d024c
+1	9	0	/home/ando/Documents/doc/IS INFO/React/REACT NATIVE/exercice/METApp/android/app/.cxx/Debug/5356x5u2/x86_64/CMakeFiles/cmake.verify_globs	caf0782d843d024c
+0	5	0	/home/ando/Documents/doc/IS INFO/React/REACT NATIVE/exercice/METApp/android/app/.cxx/Debug/5356x5u2/x86_64/CMakeFiles/cmake.verify_globs	caf0782d843d024c
+0	6	0	/home/ando/Documents/doc/IS INFO/React/REACT NATIVE/exercice/METApp/android/app/.cxx/Debug/5356x5u2/x86_64/CMakeFiles/cmake.verify_globs	caf0782d843d024c
+1	6	0	/home/ando/Documents/doc/IS INFO/React/REACT NATIVE/exercice/METApp/android/app/.cxx/Debug/5356x5u2/x86_64/CMakeFiles/cmake.verify_globs	caf0782d843d024c
+1	19	0	/home/ando/Documents/doc/IS INFO/React/REACT NATIVE/exercice/METApp/android/app/.cxx/Debug/5356x5u2/x86_64/CMakeFiles/cmake.verify_globs	caf0782d843d024c
+0	13	0	/home/ando/Documents/doc/IS INFO/React/REACT NATIVE/exercice/METApp/android/app/.cxx/Debug/5356x5u2/x86_64/CMakeFiles/cmake.verify_globs	caf0782d843d024c
+0	13	0	/home/ando/Documents/doc/IS INFO/React/REACT NATIVE/exercice/METApp/android/app/.cxx/Debug/5356x5u2/x86_64/CMakeFiles/cmake.verify_globs	caf0782d843d024c
+8	29	0	/home/ando/Documents/doc/IS INFO/React/REACT NATIVE/exercice/METApp/android/app/.cxx/Debug/5356x5u2/x86_64/CMakeFiles/cmake.verify_globs	caf0782d843d024c

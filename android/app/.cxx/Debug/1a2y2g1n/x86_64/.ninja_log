@@ -1,0 +1,10 @@
+# ninja log v5
+4351	4407	1748682850108809819	/home/andoniaina/Bureau/METApp/android/app/build/intermediates/cxx/Debug/1a2y2g1n/obj/x86_64/libappmodules.so	b2ee236916679d5
+0	3876	1748682849567833323	CMakeFiles/appmodules.dir/home/andoniaina/Bureau/METApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	bdb47c152eab9ed9
+1	10	0	/home/andoniaina/Bureau/METApp/android/app/.cxx/Debug/1a2y2g1n/x86_64/CMakeFiles/cmake.verify_globs	5f39f82c4d19f87a
+3	4351	1748682850040812770	CMakeFiles/appmodules.dir/OnLoad.cpp.o	8efac946e52b719
+1	7	0	/home/andoniaina/Bureau/METApp/android/app/.cxx/Debug/1a2y2g1n/x86_64/CMakeFiles/cmake.verify_globs	5f39f82c4d19f87a
+11	5067	1749834526714650543	CMakeFiles/appmodules.dir/home/andoniaina/Bureau/METApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	bdb47c152eab9ed9
+12	5552	1749834527215723134	CMakeFiles/appmodules.dir/OnLoad.cpp.o	8efac946e52b719
+5552	5661	1749834527352742932	/home/andoniaina/Bureau/METApp/android/app/build/intermediates/cxx/Debug/1a2y2g1n/obj/x86_64/libappmodules.so	b2ee236916679d5
+1	5	0	/home/andoniaina/Bureau/METApp/android/app/.cxx/Debug/1a2y2g1n/x86_64/CMakeFiles/cmake.verify_globs	5f39f82c4d19f87a
